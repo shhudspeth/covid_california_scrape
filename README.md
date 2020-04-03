@@ -14,3 +14,39 @@
 
  Stay tuned for dashboards and graphics, but please start using the data to make
  your own.
+
+A note on scrape_utilities.py:
+
+To get a specific county data, load the county+website csv file.
+make an instance of "CountyData". Use ".add_soup()" to run Beautiful Soup. Use ".make_data(name_of_county())" to 
+get a tuple of the number of cases, deaths, tests, recovered, respectively. 
+
+I.e. 
+counties_and_websites = scrape_utilities.read_csv('../data/CA_Coronovirus_Websites_by_county.csv')
+# counties_and_websites[39] = (San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp)
+sf = scrape_utilities.CountyData('San Francisco, counties_and_websites[39][1])
+sf.name = san_francisco
+sf.add_soup() # soup added and can be called by sf.soup
+sf.make_data(san_francisco()) # returns (450, 7, 0,0)
+sf.positive_cases # returns 450
+
+sf.run_bs4 will run beautiful soup for a new soup
+sf.date_of_scrape returns what day (not time) the scrape happened
+
+To make a quick scrape without writing a dictionary, use the following code...
+Note that to actually scrape, one has to have the county in lower-case with _for spaces
+in an executable code...
+
+def quick_scrape(counties_and_websites)
+   for x in counties_and_websites):
+       try: 
+           x = scrape.utilities.CountyData(x[0], x[1])
+           x.add_soup()
+           func = 'x.make_data(x.' + str(x.name) +'())'
+           exec(func)
+           print("DATA SCRAPED for",x.name,x.scrape)
+        
+       except:
+            print('Scrape Error', x.name)
+return("Scraped County Website for Corona Information")
+ 
