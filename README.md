@@ -6,7 +6,7 @@
  The CSV file (../data/CA_Coronovirus_Websites_by_county.csv) has all the UPDATED coronovirus websites. 
  They were scraped off the CA state public health site and then updated for Coronavirus information.
 
- Not all county websites are able to be scraped. These county will have NAN files.
+ Not all county websites are able to be scraped. These counties will should NAN files.
  In the 'California Counties Notebook', there are some work arounds for some of
  these counties. Saving a webfile of the website (see folder webpages), and
  then scraping the website with Beautiful Soup is one such workaround. I still found the specific
