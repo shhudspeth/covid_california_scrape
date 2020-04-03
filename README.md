@@ -26,22 +26,26 @@ make an instance of "CountyData". Use ".add_soup()" to run Beautiful Soup. Use "
 get a tuple of the number of cases, deaths, tests, recovered, respectively. 
 
 I.e. 
-`counties_and_websites = scrape_utilities.read_csv('../data/CA_Coronovirus_Websites_by_county.csv')
-counties_and_websites[39] = (San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp)
-sf = scrape_utilities.CountyData('San Francisco, counties_and_websites[39][1])
+```
+counties_and_websites = scrape_utilities.read_csv('../data/CA_Coronovirus_Websites_by_county.csv')
+# counties_and_websites[39] = (San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp)
+
+sf = scrape_utilities.CountyData('San Francisco', counties_and_websites[39][1])
 sf.name = san_francisco
 sf.add_soup() # soup added and can be called by sf.soup
 sf.make_data(san_francisco()) # returns (450, 7, 0,0)
-sf.positive_cases # returns 450
+sf.positive_cases  # returns 450
 
-sf.run_bs4 will run beautiful soup for a new soup
-sf.date_of_scrape returns what day (not time) the scrape happened`
+sf.run_bs4()  # will run beautiful soup for a new soup
+sf.date_of_scrape #returns what day (not time) the scrape happened
+```
 
 To make a quick scrape without writing a dictionary, use the following code...
 Note that to actually scrape, one has to have the county in lower_case with _ for a space
 and there has to be a way to do it with an executable code...
 
-`def quick_scrape(counties_and_websites)
+```
+def quick_scrape(counties_and_websites)
    for x in counties_and_websites):
        try: 
            x = scrape.utilities.CountyData(x[0], x[1])
@@ -53,4 +57,5 @@ and there has to be a way to do it with an executable code...
        except:
             print('Scrape Error', x.name)
 return("Scraped County Website for Corona Information")
+```
  
