@@ -1,0 +1,61 @@
+County,Website,Covid Numbers 2020-03-23 17:02:46.151046-07:00,Deaths2020-03-24 11:00:13.839707-07:00,Covid Numbers 2020-03-24 11:08:48.215442-07:00,Covid Numbers 2020-03-25 09:37:20.179272-07:00,Deaths2020-03-25 09:37:24.378259-07:00,Recovered 2020-03-25 10:18:16.933278-07:00,Tests Done as of 2020-03-25 11:05:05.411895-07:00,Covid Numbers 2020-03-25 21:11:57.049584-07:00,Deaths 2020-03-25 21:11:57.049764-07:00,Recovered 2020-03-25 21:11:57.051612-07:00,Tests Done as of 2020-03-25 21:11:57.033404-07:00,Covid Numbers 2020-03-26 09:49:37.315954-07:00,Deaths 2020-03-26 09:49:37.316099-07:00,Recovered 2020-03-26 09:49:37.316253-07:00,Tests Done as of 2020-03-26 09:49:37.306616-07:00,4,Covid Numbers 2020-03-27 09:22:22.453351-07:00,Deaths 2020-03-27 09:22:22.453684-07:00,Recovered 2020-03-27 09:22:22.453915-07:00,Tests Done as of 2020-03-27 09:22:22.426441-07:00,0,5,Covid Numbers 2020-03-28 11:09:23.606420-07:00,Deaths 2020-03-28 11:09:23.606590-07:00,Recovered 2020-03-28 11:09:23.606723-07:00,Tests Done as of 2020-03-28 11:09:23.598589-07:00
+Alameda,http://www.acphd.org/2019-ncov.aspx,112,1,112,124,0,0.0,124,124,0,0.0,124,164,4,0.0,124,,164,4,,124,,,164,4,,124
+Alpine,http://alpinecountyca.gov/AlertCenter.aspx,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+Amador,https://www.amadorgov.org/services/covid-19,2,0,2,2,0,0.0,2,2,0,0.0,2,2,0,0.0,2,,2,0,,2,,,2,0,,2
+Berkeley,https://www.cityofberkeley.info/coronavirus,10,0,11,11,0,0.0,11,11,0,0.0,11,2,0,0.0,11,,14,0,,11,,,2,0,,11
+Butte,http://www.buttecounty.net/publichealth/Home.aspx,3,0,4,4,0,0.0,0,4,0,0.0,0,5,0,0.0,0,,5,0,,0,,,5,0,,0
+Calaveras,https://covid19.calaverasgov.us/,2,0,2,2,0,0.0,2,2,0,0.0,2,2,0,0.0,2,,0,0,,2,,,0,0,,2
+Colusa,http://www.countyofcolusa.org/index.aspx?NID=99,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,1,0,,0
+Contra Costa,https://www.coronavirus.cchealth.org/,0,1,71,86,1,0.0,86,108,1,0.0,86,108,1,0.0,86,,131,1,,86,,,151,2,,86
+Del Norte,http://www.co.del-norte.ca.us/departments/health-human-services/public-health,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+El Dorado,https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-Cases.aspx,0,​0,2,3,0,0.0,3,3,0,0.0,3,3,0,0.0,3,,9,0,,3,,,12,0,,3
+Fresno,https://www.co.fresno.ca.us/departments/public-health/covid-19,0,0,13,18,0,0.0,18,19,0,0.0,18,19,0,0.0,18,,20,0,,18,,,24,0,,18
+Glenn,https://www.countyofglenn.net/dept/health-human-services/public-health/covid19,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+Humboldt,https://humboldtgov.org/2707/COVID-Test-Results,0,0,1,6,0,0.0,6,10,0,0.0,6,10,0,0.0,6,,12,0,,6,,,12,0,,6
+Imperial,http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/,0,0,6,9,0,0.0,9,9,0,0.0,9,9,0,0.0,124,,17,0,,142,,,21,0,,170
+Inyo,https://www.inyocounty.us/covid-19/local-updates,0,0,0,0,0,0.0,0,0,0,0.0,0,1,0,0.0,33,,2,0,,33,,,5,,,33
+Kern,https://kernpublichealth.com/2019-novel-coronavirus/,0,0,15,15,0,0.0,15,15,0,0.0,15,28,0,0.0,952,,35,0,,1602,,,46,1,,1915
+Kings,https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,77,,1,0,,85,,,1,0,,88
+Lake,http://health.co.lake.ca.us/Coronavirus.htm,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,33,,,0,0,,33
+Lassen,http://www.co.lassen.ca.us/dept/public-health/public-health,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+Long Beach,http://www.longbeach.gov/health/diseases-and-condition/information-on/coronavirus/faq/,0,0,28,28,0,0.0,28,32,0,0.0,28,32,0,0.0,28,,54,0,,28,,,70,0,,28
+Los Angeles,http://publichealth.lacounty.gov/media/Coronavirus/locations.htm,0,0,494,634,0,0.0,634,758,0,0.0,634,1166,20,0.0,634,,1166,20,,634,,,1402,25,,634
+Madera,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,0,0,0,6,0,1.0,6,7,0,1.0,6,7,0,1.0,6,,10,0,,6,,,11,0,,6
+Marin,https://coronavirus.marinhhs.org/,0,0,0,53,0,0.0,53,60,0,0.0,53,60,0,0.0,53,,65,0,,53,,,9,25,,53
+Mariposa,https://www.mariposacounty.org/1592/COVID-19-Information,0,0,0,0,0,0.0,0,0,0,0.0,28,0,0,0.0,28,,0,0,,37,,,0,0,,40
+Mendocino,https://www.mendocinocounty.org/community/novel-coronavirus,0,0,0,2,0,0.0,2,2,0,0.0,2,2,0,0.0,156,,26,0,,37,,,26,0,,40
+Merced,http://www.co.merced.ca.us/82/Public-Health,0,0,0,1,0,0.0,46,1,0,0.0,46,1,0,0.0,46,,4,0,0,58,,0,7,0,0,61
+Modoc,https://modochealthservices.org/corona-virus,0,0,0,0,0,0.0,14,0,0,0.0,14,0,0,0.0,14,,0,0,,14,,,0,0,,14
+Mono,https://coronavirus.monocounty.ca.gov/,0,0,0,4,0,0.0,60,4,0,0.0,62,4,0,0.0,62,,6,0,,66,,,6,0,,66
+Monterey,https://www.co.monterey.ca.us/government/departments-a-h/administrative-office/office-of-emergency-services/response/covid-19,0,0,0,24,19,0.0,365,24,19,0.0,365,24,19,0.0,365,,27,19,,403,,,32,19,,452
+Napa,https://legacy.livestories.com/s/v2/coronavirus-report-for-napa-county-ca/9065d62d-f5a6-445f-b2a9-b7cf30b846dd/,0,0,0,3,0,0.0,0,3,0,0.0,0,3,0,0.0,0,,8,0,,212,0,,8,0,,212
+Nevada,https://www.mynevadacounty.com/2924/Coronavirus,0,0,0,4,0,0.0,0,4,0,0.0,0,4,0,0.0,0,,8,0,,0,,,12,0,,0
+Orange,https://occovid19.ochealthinfo.com/coronavirus-in-oc,0,0,0,152,1,0.0,2159,187,1,0.0,2442,187,1,0.0,2442,,256,1,,3605,,,256,1,,3605
+Pasadena,https://www.cityofpasadena.net/public-health/news-announcements/information-on-covid-19/,0,0,0,7,0,0.0,0,9,0,0.0,0,9,0,0.0,0,,10,0,,0,,,10,0,,0
+Placer,https://www.placer.ca.gov/6448/Cases-in-Placer,0,0,0,30,1,0.0,0,30,1,0.0,0,30,1,0.0,0,,30,1,,0,,,30,1,,0
+Plumas,https://www.plumascounty.us/2669/Novel-Coronavirus-2019-COVID-19,0,0,0,0,0,0.0,37,0,0,0.0,38,0,0,0.0,38,,0,0,,40,,,0,0,,42
+Riverside,https://www.rivcoph.org/coronavirus,0,0,0,70,7,0.0,0,107,8,0.0,0,107,8,0.0,0,,151,8,,0,,,185,8,,0
+San Benito,http://hhsa.cosb.us/divisions/public-health/,0,0,0,7,1,4.0,91,7,1,4.0,91,7,1,4.0,91,,7,1,4,91,2,,14,1,,170
+San Bernardino,http://wp.sbcounty.gov/dph/coronavirus/,0,0,0,50,1,0.0,0,107,8,0.0,0,2,8,0.0,0,,55,3,,0,,,55,3,,0
+San Diego,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,0,0,0,242,2,0.0,0,297,2,0.0,0,297,2,0.0,0,,341,3,,0,,,417,5,,0
+San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp,0,0,0,178,1,0.0,0,178,1,0.0,0,178,1,0.0,0,,279,3,,0,,,308,4,,0
+San Joaquin,http://www.sjcphs.org/coronavirus.aspx,0,0,0,66,2,0.0,0,66,2,0.0,0,77,3,0.0,0,,85,3,,0,,,101,4,,0
+San Luis Obispo,https://www.emergencyslo.org/en/positive-case-details.aspx,0,0,0,46,0,7,0,46,0,7,0,46,0,7,0,,40,40,40,0,40,,40,40,,0
+San Mateo,https://www.smchealth.org/coronavirus,0,0,0,165,5,0.0,0,165,5,0.0,0,165,5,0.0,0,,239,6,,0,,,274,6,,0
+Santa Barbara,https://publichealthsbc.org/status-reports/,0,0,0,24,0,0.0,493,24,0,0.0,493,24,0,0.0,493,,26,0,,493,6,,26,0,,493
+Santa Clara,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,0,0,0,459,17,0.0,0,459,17,0.0,0,459,17,0.0,0,,459,17,,0,,,574,20,,0
+Santa Cruz,http://www.santacruzhealth.com/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,0,0,0,25,0,0.0,0,25,0,0.0,0,32,0,0.0,0,,32,0,,0,,,34,0,,0
+Shasta,https://www.co.shasta.ca.us/covid-19/overview,0,0,0,3,1,0.0,0,3,1,0.0,0,Total Confirmed Cases 3,1,0.0,0,,3,1,,0,,,3,1,,0
+Sierra,http://sierracounty.ca.gov/582/Coronavirus-COVID-19,0,0,0,0,0,0.0,4,0,0,0.0,4, 0, 0,0.0,4,, 0, 0,,5,,, 0, 0,,5
+Siskiyou,http://www.co.siskiyou.ca.us/content/public-health-division,0,0,26,3,0,0.0,55,3,0,0.0,55,3,0,0.0,55,,3,=E2=80=BA,,60,,,3,0 ,,60
+Solano,http://www.solanocounty.com/depts/ph/ncov.asp,0,0,26,31,0,0.0,0,31,0,0.0,0,31,0,0.0,0,,31,0,,0,,,31,0,,0
+Sonoma,https://socoemergency.org/,0,0,0,39,1,2,775,39,1,2,775,44,1,2,775,4,49,1,4,854,,5,49,1,5,854
+Stanislaus,http://www.schsa.org/PublicHealth/pages/corona-virus/,0,0,0,12,0,0.0,487,12,0,0.0,487,17,0,0.0,17653,,23,0,,23783,,,23,0,,23783
+Sutter,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus,0,0,2,2,0,0.0,0,5,0,0.0,0,5,0,0.0,0,,3,0,,0,,,2,0,,0
+Tehama,https://www.tehamacohealthservices.net/news-events/news/,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+Trinity,https://www.trinitycounty.org/Public-Health,0,0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,,0,0,,0,,,0,0,,0
+Tulare,https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/,0,0,0,18,0,0.0,0,18,0,0.0,0,18,0,0.0,0,,18,0,,0,,,18,0,,0
+Tuolumne,https://www.tuolumnecounty.ca.gov/250/Public-Health,0,0,0,0,0,0.0,105,0,0,0.0,105,0,0,0.0,105,,113,0,,TOTAL KNOWN NON-RESIDENT CASES,,,125,0,,TOTAL KNOWN NON-RESIDENT CASES
+Ventura,https://www.vcemergency.com/,0,0,0,50,1,0.0,0,50,1,0.0,0,50,1,0.0,0,,61,1,,0,,,83,3,,0
+Yolo,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,0,0,0,11,1,0.0,0,11,1,0.0,0,11,1,0.0,0,,11,1,,0,,,11,1,,0
+Yuba,https://www.yuba.org/coronavirus/,0,0,0,3,0,0.0,0,3,0,0.0,0,3,0,0.0,0,,3,0,,0,,,3,0,,0
