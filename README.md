@@ -33,7 +33,8 @@ counties_and_websites = scrape_utilities.read_csv('../data/CA_Coronovirus_Websit
 sf = scrape_utilities.CountyData('San Francisco', counties_and_websites[39][1])
 sf.name = san_francisco
 sf.add_soup() # soup added and can be called by sf.soup
-sf.make_data(san_francisco()) # returns (450, 7, 0,0)
+scrape = sf.san_francisco())# returns (450, 7, 0,0)
+sf.make_data(scrape) # sf.positive_cases = 450, sf.deaths = 7, sf.total_tests = 0, sf.recovered = 0
 sf.positive_cases  # returns 450
 
 sf.run_bs4()  # will run beautiful soup for a new soup
